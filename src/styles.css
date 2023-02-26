@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    text-decoration: dashed;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
